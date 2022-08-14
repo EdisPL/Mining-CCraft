@@ -1,2 +1,2 @@
 turtle.dig()
-turtle.foe
+turtle
