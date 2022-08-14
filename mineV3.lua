@@ -1,4 +1,5 @@
 turtle.dig()
 turtle.forward()
 
-turtle.
+turtle.dig()
+trutle.
