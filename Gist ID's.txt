@@ -1,2 +1,3 @@
 mineV1 10x10x10             https://gist.github.com/EdisPL/f9cbcd672a531199b3032868936e0c6e
 mineV2 10x4x6               https://gist.github.com/EdisPL/794d19a76acd108665d47a51f8fa544b
+mineV3 10x4x6               https://gist.github.com/EdisPL/a503ca910916b0df41b4f913fa200178
